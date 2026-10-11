@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\\u0423\u0427\u0415\u0411\u0410\\WT\\wt-lab3-mvc-liseychikov\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\wt\\wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|solutionrelative:wt-lab3-mvc-liseychikov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\wt\\wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|solutionrelative:wt-lab3-mvc-liseychikov\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\wt\\wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|solutionrelative:wt-lab3-mvc-liseychikov\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\wt\\wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov\\views\\taskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|solutionrelative:wt-lab3-mvc-liseychikov\\views\\taskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\wt\\wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|solutionrelative:wt-lab3-mvc-liseychikov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|c:\\\u0443\u0447\u0435\u0431\u0430\\wt\\wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EE549B-138E-4180-874E-B75E5D7FF08C}|wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov.csproj|solutionrelative:wt-lab3-mvc-liseychikov\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\\u0423\u0427\u0415\u0411\u0410\\WT\\wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "wt-lab3-mvc-liseychikov\\Controllers\\TaskController.cs",
               "ToolTip": "C:\\\u0423\u0427\u0415\u0411\u0410\\WT\\wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov\\Controllers\\TaskController.cs",
               "RelativeToolTip": "wt-lab3-mvc-liseychikov\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAANwAAAAAAAAAAAAAAPEAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAPEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T13:46:40.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TaskView.cs",
               "DocumentMoniker": "C:\\\u0423\u0427\u0415\u0411\u0410\\WT\\wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov\\Views\\TaskView.cs",
               "RelativeDocumentMoniker": "wt-lab3-mvc-liseychikov\\Views\\TaskView.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TaskModel.cs",
               "DocumentMoniker": "C:\\\u0423\u0427\u0415\u0411\u0410\\WT\\wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov\\Models\\TaskModel.cs",
               "RelativeDocumentMoniker": "wt-lab3-mvc-liseychikov\\Models\\TaskModel.cs",
@@ -64,12 +64,11 @@
               "RelativeToolTip": "wt-lab3-mvc-liseychikov\\Models\\TaskModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAswBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T13:10:35.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T13:10:35.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u0423\u0427\u0415\u0411\u0410\\WT\\wt-lab3-mvc-liseychikov\\wt-lab3-mvc-liseychikov\\Program.cs",
               "RelativeDocumentMoniker": "wt-lab3-mvc-liseychikov\\Program.cs",

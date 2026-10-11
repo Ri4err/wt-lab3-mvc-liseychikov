@@ -239,7 +239,7 @@ namespace wt_lab3_mvc_liseychikov.Controllers
                 task.IsAvaliable = isAvailable;
             }
 
-            view.ShowMessage("Задача успешно обновлена!");
+            view.ShowMessage("Задача успешно обновлена");
         }
     }
 }
