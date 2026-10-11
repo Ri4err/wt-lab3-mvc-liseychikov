@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "wt-lab3-mvc-liseychikov/1.0.0": {
+        "runtime": {
+          "wt-lab3-mvc-liseychikov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wt-lab3-mvc-liseychikov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

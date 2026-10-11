@@ -1,0 +1,14 @@
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\obj\Debug\net9.0\wt-lab3-mvc-liseychikov.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\obj\Debug\net9.0\wt-lab3-mvc-liseychikov.AssemblyInfoInputs.cache
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\obj\Debug\net9.0\wt-lab3-mvc-liseychikov.AssemblyInfo.cs
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\obj\Debug\net9.0\wt-lab3-mvc-liseychikov.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\bin\Debug\net9.0\wt-lab3-mvc-liseychikov.exe
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\bin\Debug\net9.0\wt-lab3-mvc-liseychikov.deps.json
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\bin\Debug\net9.0\wt-lab3-mvc-liseychikov.runtimeconfig.json
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\bin\Debug\net9.0\wt-lab3-mvc-liseychikov.dll
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\bin\Debug\net9.0\wt-lab3-mvc-liseychikov.pdb
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\obj\Debug\net9.0\wt-lab3-mvc-liseychikov.dll
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\obj\Debug\net9.0\refint\wt-lab3-mvc-liseychikov.dll
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\obj\Debug\net9.0\wt-lab3-mvc-liseychikov.pdb
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\obj\Debug\net9.0\wt-lab3-mvc-liseychikov.genruntimeconfig.cache
+C:\УЧЕБА\WT\wt-lab3-mvc-liseychikov\wt-lab3-mvc-liseychikov\obj\Debug\net9.0\ref\wt-lab3-mvc-liseychikov.dll
